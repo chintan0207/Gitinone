@@ -1,0 +1,2 @@
+# Gitinone
+this my repo
